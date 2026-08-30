@@ -31,6 +31,9 @@ PONTOS FRACOS:
 
 ##**2. GestãoInk**
 
+<img width="905" height="479" alt="image" src="https://github.com/user-attachments/assets/0aaeb8af-df88-4b11-a85a-5236820ed814" />
+
+
 DESCRIÇÃO DO FUNCIONAMENTO:
 
 O GestãoInk é uma plataforma brasileira criada especialmente para ajudar na gestão de estúdios de tatuagem. Ela reúne diversas funções importantes para o dia a dia do negócio, como orçamento, agenda, controle de estoque, financeiro, cadastro de clientes, anamnese, comissões e relacionamento com os clientes.
