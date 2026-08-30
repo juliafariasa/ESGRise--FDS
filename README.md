@@ -3,24 +3,6 @@
 ### DESAFIO DO PROJETO
 Como aumentar a percepção de importância para que PMEs invistam em ESG?
 
-@@
--### EQUIPE
--<div align="center">
--
--CIÊNCIAS DA COMPUTAÇÃO - TURMA A
--
--Arthur Freitas Sultanum Burgos
--Bruna Rocha Souto Walter
--Julia Farias Amancio
--Luiz Eduardo da Silva Moreira
--Miguel Magalhães Drechsler
--Thiago Henrique Sousa do Monte
--
--</div>
-+### EQUIPE
-+
-+<div align="center">
-+
 +**CIÊNCIAS DA COMPUTAÇÃO — TURMA A**
 +
 +<table>
@@ -35,7 +17,7 @@ Como aumentar a percepção de importância para que PMEs invistam em ESG?
 +    <td align="center"><strong>Thiago Henrique Sousa do Monte</strong></td>
 +  </tr>
 +</table>
-+
+
 +</div>
 
 ## ENTREGÁVEL 1
