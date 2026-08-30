@@ -125,6 +125,9 @@ PONTOS FRACOS:
 
 **5. Tattoo Manager**
 
+<img width="925" height="480" alt="image" src="https://github.com/user-attachments/assets/ee1615cc-4cfa-4cbf-8a34-7d2fa934baf2" />
+
+
 DESCRIÇÃO DO FUNCIONAMENTO:
 
 O Tattoo Manager é uma plataforma desenvolvida tanto tatuadores autônomos quanto estúdios de tatuagem. Ela reúne ferramentas como agenda, criação de orçamentos, cadastro de clientes, controle financeiro, gestão de profissionais, comissões e estoque.
