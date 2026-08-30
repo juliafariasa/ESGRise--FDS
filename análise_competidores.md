@@ -1,6 +1,6 @@
 ## ANÁLISE DE COMPETIDORES
 
-##1. DaySmart BodyArt
+##**1. DaySmart BodyArt**
 
 DESCRIÇÃO DO FUNCIONAMENTO:
 
@@ -26,7 +26,7 @@ PONTOS FRACOS:
 
 -------------------
 
-##2. GestãoInk
+##**2. GestãoInk**
 
 DESCRIÇÃO DO FUNCIONAMENTO:
 
@@ -53,3 +53,37 @@ PONTOS FRACOS:
 - Os conteúdos oferecidos são mais voltados para gestão, marketing, tecnologia e finanças, sem um foco específico em ESG e sustentabilidade.
 
 -------------------
+
+##**3. Avec**
+
+DESCRIÇÃO DO FUNCIONAMENTO:
+
+A Avec é uma plataforma de gestão voltada para empresas do setor de beleza e bem-estar. Ela atende diferentes tipos de negócios, entre eles os estúdios de tatuagem.
+
+A plataforma reúne várias ferramentas que ajudam na organização do dia a dia, como agenda, pagamentos, fluxo de caixa, controle de estoque, produtos, comissões, cadastro de clientes, marketing e análise de dados. Além disso, também utiliza inteligência artificial para auxiliar em tarefas como atendimento e agendamento.
+
+PONTOS FORTES:
+
+- A plataforma é pensada para facilitar a rotina de pequenos negócios.
+- Reúne informações financeiras e administrativas em um único lugar, facilitando o acompanhamento do negócio.
+- O controle de estoque permite acompanhar melhor o uso dos materiais e pode ajudar a perceber possíveis desperdícios.
+- A automatização de algumas tarefas torna a rotina mais simples e pode facilitar a inclusão de novas práticas no dia a dia da empresa.
+- O uso de inteligência artificial pode servir como referência para oferecer orientações mais personalizadas de acordo com as necessidades de cada negócio.
+- As ferramentas de marketing e fidelização mostram como determinadas ações podem contribuir para a imagem da empresa e para o relacionamento com os clientes.
+
+PONTOS FRACOS:
+
+- A plataforma não possui um diagnóstico que mostre como a empresa está em relação às práticas ESG.
+- Não mostra de forma clara como a adoção de práticas sustentáveis pode gerar economia ou outros benefícios financeiros para o negócio.
+- Não apresenta indicadores específicos sobre consumo de recursos, como materiais, água ou energia.
+- Não oferece orientações sobre como uma pequena empresa pode começar a aplicar ESG na sua rotina.
+- Não possui um sistema de recompensas ou reconhecimento que incentive a empresa a adotar e manter boas práticas sustentáveis.
+
+-------------------
+
+
+
+
+
+
+
