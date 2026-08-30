@@ -5,6 +5,8 @@
 <img width="911" height="478" alt="image" src="https://github.com/user-attachments/assets/389d0482-bd0a-48f8-874c-20e482284f77" />
 
 
+
+
 DESCRIÇÃO DO FUNCIONAMENTO:
 
 O DaySmart BodyArt é uma plataforma voltada para a gestão de estúdios de tatuagem e piercing. Ela reúne diversas ferramentas que ajudam na organização do dia a dia do estúdio, como agenda, cadastro de clientes, pagamentos, controle de estoque, comissões, folha de pagamento e relatórios.
