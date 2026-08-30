@@ -123,8 +123,34 @@ PONTOS FRACOS:
 
 -------------------
 
+**5. Tattoo Manager**
 
+DESCRIÇÃO DO FUNCIONAMENTO:
 
+O Tattoo Manager é uma plataforma desenvolvida tanto tatuadores autônomos quanto estúdios de tatuagem. Ela reúne ferramentas como agenda, criação de orçamentos, cadastro de clientes, controle financeiro, gestão de profissionais, comissões e estoque.
+Existe um plano gratuito para os pequenos negócios e outros planos que acompanham o crescimento do profissional ou do estúdio.
+
+PONTOS FORTES:
+
+- Desenvolvido especificamente para tatuadores e pequenos estúdios.
+- Possui plano gratuito, reduzindo a barreira financeira de entrada.
+- Linguagem simples e voltada para o pequeno empreendedor.
+- Controle de estoque permite acompanhar materiais utilizados.
+- Anamnese digital reduz papel.
+- Dashboard financeiro aproxima indicadores da realidade da PME.
+- Interface mobile facilita a adoção por profissionais autônomos.
+- Mostra claramente benefícios práticos das funcionalidades oferecidas.
+- Evolução de planos acompanha o crescimento do negócio.
+
+PONTOS FRACOS:
+
+- ESG não aparece como proposta de valor.
+- Não apresenta diagnóstico ambiental.
+- Não possui conteúdos educativos sobre ESG.
+- Não apresenta ESG Score ou sistema semelhante.
+- Não incentiva práticas ESG por recompensas, metas ou reconhecimento.
+
+-------------------
 
 
 
