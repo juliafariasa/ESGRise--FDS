@@ -59,7 +59,6 @@ PONTOS FRACOS:
 DESCRIÇÃO DO FUNCIONAMENTO:
 
 A Avec é uma plataforma de gestão voltada para empresas do setor de beleza e bem-estar. Ela atende diferentes tipos de negócios, entre eles os estúdios de tatuagem.
-
 A plataforma reúne várias ferramentas que ajudam na organização do dia a dia, como agenda, pagamentos, fluxo de caixa, controle de estoque, produtos, comissões, cadastro de clientes, marketing e análise de dados. Além disso, também utiliza inteligência artificial para auxiliar em tarefas como atendimento e agendamento.
 
 PONTOS FORTES:
@@ -81,6 +80,34 @@ PONTOS FRACOS:
 
 -------------------
 
+##**4. Vertown**
+
+DESCRIÇÃO DO FUNCIONAMENTO:
+
+A Vertown é uma plataforma voltada principalmente para gestão ambiental, gestão de resíduos e acompanhamento de práticas ESG. Entre os concorrentes analisados, é uma das plataformas que mais se aproxima diretamente do tema da nossa pesquisa.
+A plataforma permite acompanhar o caminho dos resíduos gerados pela empresa, gerenciar fornecedores, organizar documentos ambientais e visualizar diferentes informações por meio de dashboards e indicadores ESG. Também possui ferramentas para acompanhamento de custos, definição de metas, rastreabilidade de resíduos e questões relacionadas à conformidade ambiental.
+
+PONTOS FORTES:
+
+- ESG faz parte diretamente da proposta de valor.
+- Traduz dados ambientais em dashboards e indicadores visuais.
+- Mostra redução de custos associada à gestão ambiental.
+- Permite estabelecer e acompanhar metas.
+- Possui rastreabilidade de resíduos.
+- Apresenta indicadores que podem apoiar relatórios ESG.
+- Relaciona sustentabilidade, eficiência e desempenho financeiro.
+- Possui conteúdos sobre sustentabilidade e gestão ambiental.
+- Permite benchmarking e comparação de desempenho em determinados serviços.
+- Demonstra benefícios de ESG através de dados concretos.
+
+PONTOS FRACOS:
+
+- Não é voltada especificamente para tatuadores.
+- O vocabulário técnico ambiental pode dificultar a percepção de valor de empresários com pouco conhecimento de ESG.
+- Algumas funcionalidades ESG completas fazem parte de planos mais avançados.
+- A conscientização está mais ligada à questão  ambiental do que à introdução de ESG.
+
+-------------------
 
 
 
