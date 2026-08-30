@@ -93,6 +93,9 @@ PONTOS FRACOS:
 
 ##**4. Vertown**
 
+<img width="878" height="481" alt="image" src="https://github.com/user-attachments/assets/3e6b44b7-082e-4e54-8572-b8d0547ca9e2" />
+
+
 DESCRIÇÃO DO FUNCIONAMENTO:
 
 A Vertown é uma plataforma voltada principalmente para gestão ambiental, gestão de resíduos e acompanhamento de práticas ESG. Entre os concorrentes analisados, é uma das plataformas que mais se aproxima diretamente do tema da nossa pesquisa.
