@@ -1,6 +1,6 @@
 ## ANÁLISE DE COMPETIDORES
 
-#1. DaySmart BodyArt
+##1. DaySmart BodyArt
 
 DESCRIÇÃO DO FUNCIONAMENTO:
 
@@ -9,16 +9,16 @@ Também é possível realizar agendamentos on-line e enviar lembretes automátic
 
 PONTOS FORTES:
 
-- Possui **dashboards e relatórios visuais**, deixando as informações mais fáceis de entender.
+- Possui dashboards e relatórios visuais, deixando as informações mais fáceis de entender.
 - Permite que o gestor acompanhe dados importantes sobre o desempenho do estúdio.
 - Por digitalizar vários processos, pode ajudar a diminuir o uso de papel.
 - O controle de estoque ajuda a organizar melhor os materiais e pode evitar desperdícios.
 - A automatização de algumas tarefas facilita a rotina e diminui o trabalho manual.
-- A forma como a plataforma apresenta os dados mostra que **resultados claros e fáceis de visualizar podem ajudar a convencer o gestor sobre a importância de adotar novas práticas**.
+- A forma como a plataforma apresenta os dados mostra que resultados claros e fáceis de visualizar podem ajudar a convencer o gestor sobre a importância de adotar novas práticas.
 
 PONTOS FRACOS:
 
-- A plataforma não trabalha diretamente com **ESG**.
+- A plataforma não trabalha diretamente com ESG.
 - Não mostra ao gestor quais benefícios financeiros ele poderia ter ao adotar práticas mais sustentáveis.
 - Não apresenta indicadores relacionados aos impactos ambientais do estúdio.
 - Não permite definir ou acompanhar metas, como redução de resíduos, materiais ou consumo de recursos.
