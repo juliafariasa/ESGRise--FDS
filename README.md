@@ -1,9 +1,9 @@
-# ESGRise--FDS
+## ESGRise--FDS
 
-DESAFIO DO PROJETO:
+#DESAFIO DO PROJETO:
 Como aumentar a percepção de importância para que PMEs invistam em ESG?
 
-EQUIPE:
+#EQUIPE:
 CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 1- Arthur Freitas Sultanum Burgos
 2- Bruna Rocha Souto Walter
@@ -12,6 +12,16 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 5- Miguel Magalhães Drechsler
 6- Thiago Henrique Sousa do Monte
 
-ENTREGAVEL 1
+## ENTREGAVEL 1
 
-ANALISE DE COMPETIDORES
+#ANALISE DE COMPETIDORES
+->(link)
+
+#BENCHMARK
+->(imagem)
+
+#REQUISITOS DO PRODUTO
+->(link)
+
+#QUADRO DA SPRINT
+->(imagem)
