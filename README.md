@@ -18,11 +18,11 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 #ANALISE DE COMPETIDORES
 ->(link)
 
-BENCHMARK
+#BENCHMARK
 <img width="1600" height="767" alt="benchmark" src="https://github.com/user-attachments/assets/ee5738d3-22ba-4d74-bf4d-bbc48bfd68f5" />
 
 #REQUISITOS DO PRODUTO
 ->(link)
 
-QUADRO DE SPRINTS
+#QUADRO DE SPRINTS
 ->
