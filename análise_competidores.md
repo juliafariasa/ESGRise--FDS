@@ -2,9 +2,7 @@
 
 ##**1. DaySmart BodyArt**
 
-<img width="911" height="478" alt="image" src="https://github.com/user-attachments/assets/389d0482-bd0a-48f8-874c-20e482284f77" />
-
-
+<img width="919" height="475" alt="image" src="https://github.com/user-attachments/assets/1c461b92-f8c3-41bc-8593-a7c631ac751c" />
 
 
 DESCRIÇÃO DO FUNCIONAMENTO:
