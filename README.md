@@ -7,12 +7,12 @@ Como aumentar a percepção de importância para que PMEs invistam em ESG?
 
 CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 
-Arthur Freitas Sultanum Burgos
-Bruna Rocha Souto Walter
-Julia Farias Amancio
-Luiz Eduardo da Silva Moreira
-Miguel Magalhães Drechsler
-Thiago Henrique Sousa do Monte
+- Arthur Freitas Sultanum Burgos
+- Bruna Rocha Souto Walter
+- Julia Farias Amancio
+- Luiz Eduardo da Silva Moreira
+- Miguel Magalhães Drechsler
+- Thiago Henrique Sousa do Monte
 
 
 ## ENTREGÁVEL 1
