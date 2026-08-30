@@ -64,6 +64,9 @@ PONTOS FRACOS:
 
 ##**3. Avec**
 
+<img width="874" height="403" alt="image" src="https://github.com/user-attachments/assets/81998c36-01f9-4890-bc66-c610261ee40d" />
+
+
 DESCRIÇÃO DO FUNCIONAMENTO:
 
 A Avec é uma plataforma de gestão voltada para empresas do setor de beleza e bem-estar. Ela atende diferentes tipos de negócios, entre eles os estúdios de tatuagem.
