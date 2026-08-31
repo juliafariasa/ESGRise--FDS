@@ -123,7 +123,7 @@ PONTOS FRACOS:
 
 -------------------
 
-**5. Tattoo Manager**
+##**5. Tattoo Manager**
 
 <img width="925" height="480" alt="image" src="https://github.com/user-attachments/assets/ee1615cc-4cfa-4cbf-8a34-7d2fa934baf2" />
 
