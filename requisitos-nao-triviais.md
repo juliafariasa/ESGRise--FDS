@@ -10,3 +10,7 @@ Dessa forma, a plataforma transforma práticas ESG em indicadores mensuráveis, 
 3- Implementar a funcionalidade do impacto financeiro do ESG
 
 Mostrar o impacto financeiro é informar quanto o estúdio economizou ao adotar práticas de ESG. Ao comparar o consumo , desperdício e custos de antes de depois, calculando automaticamente a redução de gastos. Logo o estúdio consegue visualizar que as práticas de sustentáveis, não apenas reduzem os impactos ambientais , mas também trazem benefícios financeiros palpáveis para o negócio. 
+
+4- Recomendações de práticas sustentáveis
+
+ Uma dificuldade encontrada nos demais concorrentes é a falta de recomendações personalizadas para ajudar os estabelecimentos a melhorar suas práticas sustentáveis. A aplicação poderá analisar os resultados obtidos pelo estabelecimento e sugerir ações de acordo com os pontos que precisam ser melhorados, considerando fatores como custo, dificuldade de implementação e impacto ambiental. Dessa forma, o estabelecimento terá um direcionamento mais claro sobre quais práticas sustentáveis pode adotar para melhorar seu desempenho ESG.
