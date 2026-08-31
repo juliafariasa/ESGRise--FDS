@@ -45,12 +45,16 @@ As informações registradas são organizadas pela plataforma em relatórios e d
 <img width="905" height="477" alt="image" src="https://github.com/user-attachments/assets/e7c9d19b-422a-4684-a637-5340b5e5d3c9" />
 
 
-DESCRIÇÃO DO FUNCIONAMENTO:
+2.2.1 Visão geral
 
-O GestãoInk é uma plataforma brasileira criada especialmente para ajudar na gestão de estúdios de tatuagem. Ela reúne diversas funções importantes para o dia a dia do negócio, como orçamento, agenda, controle de estoque, financeiro, cadastro de clientes, anamnese, comissões e relacionamento com os clientes.
-A plataforma também utiliza gráficos, relatórios e outros recursos visuais que ajudam o gestor a acompanhar melhor o funcionamento do estúdio. Além disso, possui integração com o WhatsApp e utiliza inteligência artificial para auxiliar em tarefas como atendimento, criação de orçamentos e agendamentos.
+O **GestãoInk** é uma plataforma brasileira voltada para **tatuadores e estúdios de tatuagem**, criada para facilitar a organização e a gestão do negócio. Reúne ferramentas de **agenda, orçamentos, clientes, estoque, financeiro, comissões e anamnese digital**. Também conta com integração ao WhatsApp, relatórios, gráficos e recursos de inteligência artificial para automatizar algumas tarefas.
 
-PONTOS FORTES:
+2.2.2 Funcionamento
+
+Na plataforma, o gestor cadastra as informações do estúdio, clientes e serviços e passa a controlar as principais atividades em um só lugar. É possível **criar orçamentos, organizar agendamentos, registrar clientes, acompanhar o estoque e controlar as finanças**. Os dados são apresentados em gráficos e relatórios, enquanto a integração com o WhatsApp e os recursos de IA auxiliam no atendimento e na automatização de tarefas do dia a dia.
+
+
+2.2.3 PONTOS FORTES:
 
 - É voltada diretamente para pequenos negócios e profissionais do setor de tatuagem, sendo bastante próxima do público da pesquisa.
 - Utiliza dashboards, gráficos e relatórios que deixam as informações mais fáceis de visualizar e entender.
@@ -60,7 +64,7 @@ PONTOS FORTES:
 - A integração com o WhatsApp é um ponto positivo, já que utiliza uma ferramenta que muitos pequenos empresários já fazem uso diariamente.
 - Os indicadores financeiros e operacionais ajudam o gestor a perceber de forma mais clara os resultados e o desempenho do negócio.
 
-PONTOS FRACOS:
+2.2.4 PONTOS FRACOS:
 
 - Apesar de acompanhar o estoque e o consumo de materiais, a plataforma não transforma essas informações em indicadores de impacto ambiental.
 - Não mostra de forma clara como práticas mais sustentáveis poderiam ajudar o estúdio a economizar ou reduzir custos.
