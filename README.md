@@ -1,44 +1,65 @@
 ## ESGRise--FDS
-Desafio Proposto: Como aumentar a percepção de importância para que PMEs invistam em ESG?
+Desafio Proposto: Como aumentar a percepção de importância para que PMEs invistam em ESG? (Empresa: Deloitte)
 
 ## DESCRIÇÃO DO PROJETO
-O ESGRise é um projeto de gestão ESG (Ambiental, Social e Governança) voltado para estúdios de tatuagem. A descrição abaixo documenta o contexto, o problema e o objeto de estudo levantados na pesquisa (desk research) que fundamenta o projeto — a base sobre a qual as demais decisões de produto são construídas.
+
+O **ESGRise** é um projeto acadêmico desenvolvido na disciplina de **Fundamentos de Desenvolvimento de Software (FDS)**, com foco em criar uma solução tecnológica que conecte **ESG** 🌱, **sustentabilidade** ♻️ e **gestão empresarial** 📊 de forma prática e acessível para **Pequenas e Médias Empresas (PMEs)**.
+
+Atualmente, muitas empresas reconhecem a importância do ESG, mas ainda encontram dificuldades para transformar esse conceito em ações concretas dentro da rotina do negócio. Pensando nisso, o ESGRise nasce como uma proposta de software que busca ampliar a percepção de valor dessas práticas e apoiar a tomada de decisão com base em dados, organização de processos e acompanhamento contínuo de metas sustentáveis ✅.
+
+Mais do que apresentar indicadores, o projeto pretende incentivar uma mudança de mentalidade: ESG não deve ser tratado apenas como tendência, mas como parte da estratégia da empresa no longo prazo. Nesse contexto, usamos a ideia da **tatuagem** 🖋️ como metáfora central do projeto — algo que representa identidade, compromisso e permanência. Assim como uma tatuagem carrega significado duradouro, a sustentabilidade também deve ser incorporada à cultura organizacional de forma autêntica e consistente.
 
 
-## 🧭 Contexto e Problema
+## 🎯 Objetivo Principal
 
-### Contexto  
-O setor de tatuagem no Brasil está em um momento de transformação estrutural. Nesse novo cenário, o estúdio de tatuagem deixou de ser percebido como um espaço marginalizado para responder a padrões técnicos, fiscais e de biossegurança fiscalizados pela Vigilância Sanitária.
+Desenvolver uma plataforma que ajude PMEs a:
 
-Sob a ótica do Design, a diferenciação de um estúdio não depende apenas da habilidade artística — o cliente avalia como se sente do começo ao fim do atendimento. É nesse ponto que os pilares ESG emergem não como um conjunto burocrático de regras, mas como um modelo de gestão e design sistêmico indispensável para a longevidade do setor.
-
-### O Problema  
-Apesar da profissionalização crescente, a rotina operacional dos microestúdios de tatuagem ainda é marcada por grandes problemas estruturais:
-
-- **Ambiental (E)** — o modelo produtivo da tatuagem permanece estritamente linear (extrair, usar e descartar). O uso intensivo de barreiras plásticas de uso único gera um volume massivo de resíduos. Embora haja interesse em migrar para insumos biodegradáveis, os altos custos e a baixa oferta no mercado nacional tornam essa transição um desafio financeiro. Além disso, o manuseio incorreto dos materiais descartáveis contaminados gera alto risco sanitário.
-
-- **Social (S)** — o ambiente e o mobiliário de trabalho frequentemente negligenciam a ergonomia básica regulamentada. As macas convencionais, por exemplo, são projetadas para procedimentos clínicos rápidos, o que pode levar o tatuador a desenvolver lesões por esforços repetitivos durante sessões prolongadas.
-
-- **Governança (G)** — a gestão do negócio é agravada por barreiras estruturais de gênero em um mercado historicamente dominado por homens, além de lacunas em rotinas de documentação, controles internos e transparência.
+- compreender melhor os pilares ESG (Ambiental, Social e Governança);
+- organizar práticas sustentáveis no dia a dia da gestão;
+- acompanhar evolução por meio de critérios objetivos;
+- identificar oportunidades de melhoria contínua;
+- fortalecer posicionamento de marca e responsabilidade social.
 
 
-## 🖥️ Visão da Computação  
-Sob a ótica técnica, o desafio computacional central é a ausência de padronização, rastreabilidade e interoperabilidade na coleta de dados ESG em pequenas e médias empresas (PMEs). Essas empresas operam com dados fragmentados e não estruturados, o que dificulta a automação e a conversão de informações operacionais brutas em indicadores ESG verificáveis — impedindo a integração direta com sistemas de bancos e grandes compradores.
+## 🧩 Relação com a disciplina (FDS)
+
+Por se tratar de um projeto da disciplina de **Fundamentos de Desenvolvimento de Software**, o ESGRise também tem como propósito aplicar, na prática, os principais conceitos estudados ao longo da formação, como:
+
+- 📌 levantamento e refinamento de requisitos;
+- 🧠 modelagem de solução orientada a problema real;
+- 🛠️ desenvolvimento incremental de funcionalidades;
+- 🔄 organização de trabalho em sprints;
+- 👥 colaboração em equipe e versionamento de código;
+- ✅ validação contínua e documentação técnica.
+
+Dessa forma, o projeto não apenas aborda um tema atual e relevante para a sociedade, como também serve de base para consolidar competências essenciais de engenharia e desenvolvimento de software.
 
 
-## 🔍 Objeto de Estudo e Cenário Atual
+## 💻 Tecnologias do Projeto
 
-### Descrição Geral  
-O mercado de tatuagens deixou de ser marginalizado e hoje exige rigor técnico, fiscal e sanitário. Estúdios funcionam como microempresas. O setor de tatuagem no Brasil passa por um momento de alta concorrência e maturidade: o boom explosivo pós-pandemia deu lugar a um crescimento mais lento, exigindo forte presença digital, gestão profissional e diferenciação técnica dos estúdios diante de um público consumidor mais exigente.
+A solução será desenvolvida com foco em robustez, clareza de arquitetura e escalabilidade, utilizando:
+
+- **Python** 🐍 como linguagem principal;
+- **Django** 🎯 como framework web para estruturação do sistema;
+- **SQL** 🗄️ para modelagem, armazenamento e consulta de dados.
+
+Essa stack foi escolhida por permitir desenvolvimento rápido, organizado e alinhado com boas práticas de back-end e persistência de dados, garantindo uma base sólida para evolução futura do produto.
 
 
-## 🧭 Jornada de Ineficiência
+## 🚀 Visão de Impacto
 
-1. **Preparação** — compra e organização de materiais descartáveis para o atendimento.  
-2. **Atendimento** — utilização de diversos materiais de uso único, priorizando higiene e segurança.  
-3. **Descarte** — geração de grande volume de resíduos e necessidade de separação correta.  
-4. **Destinação** — dificuldades para garantir que todos os resíduos tenham a destinação adequada.  
-5. **Problema** — a falta de soluções sustentáveis acessíveis e práticas dificulta a redução do impacto ambiental.
+O ESGRise busca gerar impacto em duas frentes:
+
+1. **Impacto acadêmico** 🎓  
+   Consolidar aprendizados de FDS por meio de um projeto completo, com problema real, planejamento, implementação e documentação.
+
+2. **Impacto social e de mercado** 🌍  
+   Apoiar PMEs na adoção de uma gestão mais sustentável e estratégica, mostrando que ESG pode ser acessível, mensurável e vantajoso para negócios de diferentes portes.
+
+
+## 🧭 Síntese
+
+Em resumo, o **ESGRise** propõe o desenvolvimento de uma plataforma que transforma conceitos de ESG em práticas de gestão aplicáveis ao contexto das PMEs. Com base em fundamentos de desenvolvimento de software e utilizando tecnologias modernas como Python, Django e SQL, o projeto une propósito, inovação e organização técnica para construir uma solução relevante, educativa e de valor duradouro. 🌱💼
 
 ---
 
@@ -58,8 +79,9 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 ---
 
 ## TECNOLOGIAS E FERRAMENTAS USADAS
-*Linguagens:* Python (Django), SQL
-*Ambiente de Desenvolvimento:* VScode
+
+- Linguagens: Python (Django), SQL
+- Ambiente de Desenvolvimento: VScode
 
 ---
 
@@ -76,3 +98,5 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 
 ### QUADRO DE SPRINTS
 ->
+
+---
