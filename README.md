@@ -4,7 +4,6 @@ Desafio Proposto: Como aumentar a percepção de importância para que PMEs invi
 ### DESCRIÇÃO DO PROJETO
 O ESGRise é um projeto de gestão ESG (Ambiental, Social e Governança) voltado para estúdios de tatuagem. A descrição abaixo documenta o contexto, o problema e o objeto de estudo levantados na pesquisa (desk research) que fundamenta o projeto — a base sobre a qual as demais decisões de produto são construídas.
 
----
 
 ## 🧭 Contexto e Problema
 
@@ -22,19 +21,16 @@ Apesar da profissionalização crescente, a rotina operacional dos microestúdio
 
 - **Governança (G)** — a gestão do negócio é agravada por barreiras estruturais de gênero em um mercado historicamente dominado por homens, além de lacunas em rotinas de documentação, controles internos e transparência.
 
----
 
 ## 🖥️ Visão da Computação  
 Sob a ótica técnica, o desafio computacional central é a ausência de padronização, rastreabilidade e interoperabilidade na coleta de dados ESG em pequenas e médias empresas (PMEs). Essas empresas operam com dados fragmentados e não estruturados, o que dificulta a automação e a conversão de informações operacionais brutas em indicadores ESG verificáveis — impedindo a integração direta com sistemas de bancos e grandes compradores.
 
----
 
 ## 🔍 Objeto de Estudo e Cenário Atual
 
 ### Descrição Geral  
-O mercado de tatuagens deixou de ser marginalizado e hoje exige rigor técnico, fiscal e sanitário. Estúdios funcionam como microempresas. O setor de tatuagem no Brasil passa por um momento de alta concorrência e maturidade: o boom explosivo pós-pandemia deu lugar a um crescimento mais lento, exigindo forte presença digital, gestão profissional e diferenciação técnica dos estúdios diante de um público consumidor mais exigente. Fonte: Sebrae
+O mercado de tatuagens deixou de ser marginalizado e hoje exige rigor técnico, fiscal e sanitário. Estúdios funcionam como microempresas. O setor de tatuagem no Brasil passa por um momento de alta concorrência e maturidade: o boom explosivo pós-pandemia deu lugar a um crescimento mais lento, exigindo forte presença digital, gestão profissional e diferenciação técnica dos estúdios diante de um público consumidor mais exigente.
 
----
 
 ## 🧭 Jornada de Ineficiência
 
