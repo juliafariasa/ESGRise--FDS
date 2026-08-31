@@ -73,7 +73,7 @@ Na plataforma, o gestor cadastra as informações do estúdio, clientes e servi�
 
 -------------------
 
-##**3. Avec**
+**2.3. Avec**
 
 <img width="874" height="403" alt="image" src="https://github.com/user-attachments/assets/81998c36-01f9-4890-bc66-c610261ee40d" />
 
@@ -106,7 +106,7 @@ Na Avec, o gestor cadastra o estabelecimento, os profissionais, serviços e clie
 
 -------------------
 
-##**4. Vertown**
+**2.4. Vertown**
 
 <img width="878" height="481" alt="image" src="https://github.com/user-attachments/assets/3e6b44b7-082e-4e54-8572-b8d0547ca9e2" />
 
@@ -144,7 +144,7 @@ Na Vertown, a empresa registra informações sobre seus **resíduos, fornecedore
 
 -------------------
 
-##**5. Tattoo Manager**
+**2.5. Tattoo Manager**
 
 <img width="925" height="480" alt="image" src="https://github.com/user-attachments/assets/ee1615cc-4cfa-4cbf-8a34-7d2fa934baf2" />
 
@@ -154,7 +154,7 @@ DESCRIÇÃO DO FUNCIONAMENTO:
 O Tattoo Manager é uma plataforma desenvolvida tanto tatuadores autônomos quanto estúdios de tatuagem. Ela reúne ferramentas como agenda, criação de orçamentos, cadastro de clientes, controle financeiro, gestão de profissionais, comissões e estoque.
 Existe um plano gratuito para os pequenos negócios e outros planos que acompanham o crescimento do profissional ou do estúdio.
 
-PONTOS FORTES:
+2.5.3 Pontos Fortes
 
 - Desenvolvido especificamente para tatuadores e pequenos estúdios.
 - Possui plano gratuito, reduzindo a barreira financeira de entrada.
@@ -166,7 +166,7 @@ PONTOS FORTES:
 - Mostra claramente benefícios práticos das funcionalidades oferecidas.
 - Evolução de planos acompanha o crescimento do negócio.
 
-PONTOS FRACOS:
+2.5.4 Pontos Fracos
 
 - ESG não aparece como proposta de valor.
 - Não apresenta diagnóstico ambiental.
