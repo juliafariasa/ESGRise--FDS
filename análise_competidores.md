@@ -52,7 +52,7 @@ O **GestãoInk** é uma plataforma brasileira voltada para **tatuadores e estúd
 Na plataforma, o gestor cadastra as informações do estúdio, clientes e serviços e passa a controlar as principais atividades em um só lugar. É possível **criar orçamentos, organizar agendamentos, registrar clientes, acompanhar o estoque e controlar as finanças**. Os dados são apresentados em gráficos e relatórios, enquanto a integração com o WhatsApp e os recursos de IA auxiliam no atendimento e na automatização de tarefas do dia a dia.
 
 
-2.2.3 PONTOS FORTES:
+2.2.3 Pontos Fortes
 
 - É voltada diretamente para pequenos negócios e profissionais do setor de tatuagem, sendo bastante próxima do público da pesquisa.
 - Utiliza dashboards, gráficos e relatórios que deixam as informações mais fáceis de visualizar e entender.
@@ -62,7 +62,7 @@ Na plataforma, o gestor cadastra as informações do estúdio, clientes e servi�
 - A integração com o WhatsApp é um ponto positivo, já que utiliza uma ferramenta que muitos pequenos empresários já fazem uso diariamente.
 - Os indicadores financeiros e operacionais ajudam o gestor a perceber de forma mais clara os resultados e o desempenho do negócio.
 
-2.2.4 PONTOS FRACOS:
+2.2.4 Pontos Fracos
 
 - Apesar de acompanhar o estoque e o consumo de materiais, a plataforma não transforma essas informações em indicadores de impacto ambiental.
 - Não mostra de forma clara como práticas mais sustentáveis poderiam ajudar o estúdio a economizar ou reduzir custos.
@@ -78,12 +78,15 @@ Na plataforma, o gestor cadastra as informações do estúdio, clientes e servi�
 <img width="874" height="403" alt="image" src="https://github.com/user-attachments/assets/81998c36-01f9-4890-bc66-c610261ee40d" />
 
 
-DESCRIÇÃO DO FUNCIONAMENTO:
+2.3.1 Visão geral
 
-A Avec é uma plataforma de gestão voltada para empresas do setor de beleza e bem-estar. Ela atende diferentes tipos de negócios, entre eles os estúdios de tatuagem.
-A plataforma reúne várias ferramentas que ajudam na organização do dia a dia, como agenda, pagamentos, fluxo de caixa, controle de estoque, produtos, comissões, cadastro de clientes, marketing e análise de dados. Além disso, também utiliza inteligência artificial para auxiliar em tarefas como atendimento e agendamento.
+A Avec é uma plataforma de gestão voltada para negócios de beleza e bem-estar, incluindo estúdios de tatuagem. Seu objetivo é facilitar a administração do negócio, reunindo ferramentas de agenda, pagamentos, fluxo de caixa, estoque, comissões, clientes e marketing. A plataforma também utiliza inteligência artificial para auxiliar no atendimento e nos agendamentos.
 
-PONTOS FORTES:
+2.3.2 Funcionamento
+
+Na Avec, o gestor cadastra o estabelecimento, os profissionais, serviços e clientes para começar a organizar a rotina pela plataforma. É possível gerenciar agendamentos, controlar estoque e finanças, registrar pagamentos e acompanhar clientes. As informações ficam centralizadas no sistema, permitindo acompanhar o desempenho do negócio e automatizar algumas tarefas do dia a dia.
+
+2.3.3 Pontos Fortes
 
 - A plataforma é pensada para facilitar a rotina de pequenos negócios.
 - Reúne informações financeiras e administrativas em um único lugar, facilitando o acompanhamento do negócio.
@@ -92,7 +95,7 @@ PONTOS FORTES:
 - O uso de inteligência artificial pode servir como referência para oferecer orientações mais personalizadas de acordo com as necessidades de cada negócio.
 - As ferramentas de marketing e fidelização mostram como determinadas ações podem contribuir para a imagem da empresa e para o relacionamento com os clientes.
 
-PONTOS FRACOS:
+2.3.4 Pontos Fracos
 
 - A plataforma não possui um diagnóstico que mostre como a empresa está em relação às práticas ESG.
 - Não mostra de forma clara como a adoção de práticas sustentáveis pode gerar economia ou outros benefícios financeiros para o negócio.
