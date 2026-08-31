@@ -1,4 +1,4 @@
-<img width="655" height="355" alt="image" src="https://github.com/user-attachments/assets/55bec101-a956-4f41-8304-b6bc134391c9" />## ANÁLISE DE COMPETIDORES
+## ANÁLISE DE COMPETIDORES
 
 
 
