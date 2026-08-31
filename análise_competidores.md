@@ -110,6 +110,9 @@ Na Avec, o gestor cadastra o estabelecimento, os profissionais, serviços e clie
 
 <img width="878" height="481" alt="image" src="https://github.com/user-attachments/assets/3e6b44b7-082e-4e54-8572-b8d0547ca9e2" />
 
+<img width="882" height="436" alt="image" src="https://github.com/user-attachments/assets/0c2a5b19-5232-4e7e-8881-245fcdea2985" />
+
+<img width="882" height="478" alt="image" src="https://github.com/user-attachments/assets/e67fd8a4-bf34-4e03-a16c-440383259966" />
 
 2.4.1 Visão geral
 
