@@ -59,7 +59,7 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 | Miguel Magalhães Drechsler | mmd3@cesar.school |
 | Thiago Henrique Sousa do Monte | thsm@cesar.school |
 
-### TECNOLOGIAS E FERRAMENTAS USADAS
+## TECNOLOGIAS E FERRAMENTAS USADAS
 *Linguagens:* Python (Django), SQL
 *Ambiente de Desenvolvimento:* VScode
 
