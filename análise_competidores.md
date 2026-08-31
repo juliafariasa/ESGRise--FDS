@@ -1,4 +1,4 @@
-## ANÁLISE DE COMPETIDORES
+<img width="655" height="355" alt="image" src="https://github.com/user-attachments/assets/55bec101-a956-4f41-8304-b6bc134391c9" />## ANÁLISE DE COMPETIDORES
 
 
 
@@ -77,6 +77,7 @@ Na plataforma, o gestor cadastra as informações do estúdio, clientes e servi�
 
 <img width="874" height="403" alt="image" src="https://github.com/user-attachments/assets/81998c36-01f9-4890-bc66-c610261ee40d" />
 
+<img width="655" height="355" alt="image" src="https://github.com/user-attachments/assets/7a15876b-eafa-45c3-8501-a99e871b1241" />
 
 2.3.1 Visão geral
 
