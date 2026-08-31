@@ -1,16 +1,25 @@
 ## ANÁLISE DE COMPETIDORES
 
-##**1. DaySmart BodyArt**
-
-<img width="919" height="475" alt="image" src="https://github.com/user-attachments/assets/1c461b92-f8c3-41bc-8593-a7c631ac751c" />
 
 
-DESCRIÇÃO DO FUNCIONAMENTO:
 
-O DaySmart BodyArt é uma plataforma voltada para a gestão de estúdios de tatuagem e piercing. Ela reúne diversas ferramentas que ajudam na organização do dia a dia do estúdio, como agenda, cadastro de clientes, pagamentos, controle de estoque, comissões, folha de pagamento e relatórios.
-Também é possível realizar agendamentos on-line e enviar lembretes automáticos para os clientes. Além disso, a plataforma apresenta dashboards que permitem ao gestor acompanhar melhor o funcionamento do estúdio e ter uma visão mais clara sobre o desempenho do negócio.
 
-PONTOS FORTES:
+**2.1 DaySmart BodyArt**
+
+2.1.1 Visão geral
+
+O DaySmart BodyArt é uma plataforma de gestão voltada para estúdios de tatuagem e piercing. Seu principal propósito é centralizar e facilitar a administração do negócio, reunindo diferentes atividades da rotina do estabelecimento em um único sistema.
+Entre suas principais funcionalidades estão agendamento de clientes, agendamento on-line, cadastro e gerenciamento de clientes, processamento de pagamentos, controle de estoque, gestão de funcionários, comissões, folha de pagamento, formulários digitais, lembretes automáticos, comunicação com clientes e relatórios gerenciais. A plataforma também disponibiliza dashboards e informações sobre o desempenho do negócio, permitindo o acompanhamento dos principais dados do estúdio de maneira mais organizada e visual.
+
+2.1.2 Funcionamento
+
+O funcionamento do DaySmart BodyArt é baseado na centralização das atividades administrativas do estúdio.
+Os clientes podem realizar agendamentos on-line, enquanto o estúdio acompanha esses horários por meio da agenda da plataforma e pode enviar lembretes automáticos. Durante a operação, também é possível registrar pagamentos, atualizar informações dos clientes, administrar funcionários e acompanhar materiais por meio do controle de estoque.
+As informações registradas são organizadas pela plataforma em relatórios e dashboards, permitindo ao gestor visualizar dados importantes sobre o funcionamento e o desempenho do estúdio.
+
+<img width="905" height="427" alt="image" src="https://github.com/user-attachments/assets/9152a95b-ef58-4d0a-99f7-778a190100a8" />
+
+2.1.3 Pontos Fortes:
 
 - Possui dashboards e relatórios visuais, deixando as informações mais fáceis de entender.
 - Permite que o gestor acompanhe dados importantes sobre o desempenho do estúdio.
@@ -19,7 +28,7 @@ PONTOS FORTES:
 - A automatização de algumas tarefas facilita a rotina e diminui o trabalho manual.
 - A forma como a plataforma apresenta os dados mostra que resultados claros e fáceis de visualizar podem ajudar a convencer o gestor sobre a importância de adotar novas práticas.
 
-PONTOS FRACOS:
+2.1.4 Pontos Fracos:
 
 - A plataforma não trabalha diretamente com ESG.
 - Não mostra ao gestor quais benefícios financeiros ele poderia ter ao adotar práticas mais sustentáveis.
@@ -29,7 +38,7 @@ PONTOS FRACOS:
 
 -------------------
 
-##**2. GestãoInk**
+**2.2 GestãoInk**
 
 <img width="905" height="479" alt="image" src="https://github.com/user-attachments/assets/0aaeb8af-df88-4b11-a85a-5236820ed814" />
 
