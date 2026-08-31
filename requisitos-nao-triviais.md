@@ -6,3 +6,7 @@
 
  Pequenos estúdios de tatuagem que adotam práticas sustentáveis nem sempre possuem formas de medir e demonstrar seu desempenho ESG. A aplicação poderá solucionar esse problema por meio de uma pontuação ESG, partindo dos critérios ambientais, sociais e de governança.
 Dessa forma, a plataforma transforma práticas ESG em indicadores mensuráveis, metas e reconhecimento pela clientela de comprometimento de práticas sustentáveis, incentivando a melhoria contínua.
+
+3- Implementar a funcionalidade do impacto financeiro do ESG
+
+Mostrar o impacto financeiro é informar quanto o estúdio economizou ao adotar práticas de ESG. Ao comparar o consumo , desperdício e custos de antes de depois, calculando automaticamente a redução de gastos. Logo o estúdio consegue visualizar que as práticas de sustentáveis, não apenas reduzem os impactos ambientais , mas também trazem benefícios financeiros palpáveis para o negócio. 
