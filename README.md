@@ -97,6 +97,6 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 -> https://github.com/juliafariasa/ESGRise--FDS/blob/main/requisitos-nao-triviais.md
 
 ### QUADRO DE SPRINTS
-->
+<img width="1600" height="767" alt="benchmark" src="Imagens/Captura de tela 2026-08-31 103050.png" />
 
 ---
