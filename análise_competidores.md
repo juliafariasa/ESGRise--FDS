@@ -1,6 +1,6 @@
 ## ANÁLISE DE COMPETIDORES
 
-1. Introdução
+**1. Introdução**
 
 O propósito do documento é comparar concorrentes de plataformas de gestão de
 pequenas e médias empresas no ramo de  tatuagem , focando em aspectos
