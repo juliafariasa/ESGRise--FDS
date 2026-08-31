@@ -1,7 +1,7 @@
 ## ESGRise--FDS
 Desafio Proposto: Como aumentar a percepção de importância para que PMEs invistam em ESG?
 
-### DESCRIÇÃO DO PROJETO
+## DESCRIÇÃO DO PROJETO
 O ESGRise é um projeto de gestão ESG (Ambiental, Social e Governança) voltado para estúdios de tatuagem. A descrição abaixo documenta o contexto, o problema e o objeto de estudo levantados na pesquisa (desk research) que fundamenta o projeto — a base sobre a qual as demais decisões de produto são construídas.
 
 
