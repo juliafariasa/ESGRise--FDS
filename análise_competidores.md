@@ -1,8 +1,14 @@
 ## ANÁLISE DE COMPETIDORES
 
+1. Introdução
 
-
-
+O propósito do documento é comparar concorrentes de plataformas de gestão de
+pequenas e médias empresas no ramo de  tatuagem , focando em aspectos
+relacionados a ESG, visto que o projeto que grupo está desenvolvendo é sobre
+como aumentar a percepção de importância para que as pequenas e médias empresas
+do setor de tatuagem invistam em práticas de ESG. Além de analisar possíveis
+requisitos do produto que será criado pelo grupo . Os produtos/plataformas
+analisadas foras: DaySmart BodyArt, GestãoInk, Avec, Vertown e Tatto Manager.
 
 **2.1 DaySmart BodyArt**
 
