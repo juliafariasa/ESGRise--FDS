@@ -1,3 +1,6 @@
+## REQUISITOS NÃO TRIVIAIS
+
+
 1. Metas relacionadas à redução de resíduos e consumo
  
  Uma lacuna identificada  nos demais competidores é a dificuldade de estabelecer e acompanhar metas ambientais. A aplicação a ser desenvolvida poderá permitir que cada estabelecimento defina objetivos e personalize os de acordo com sua realidade, como reduzir a geração de determinados resíduos, diminuir o consumo de água e energia ou utilizar alternativas mais sustentáveis. O acompanhamento dessas metas permitirá verificar a evolução do estabelecimento ao longo do tempo.
