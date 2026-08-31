@@ -111,12 +111,15 @@ Na Avec, o gestor cadastra o estabelecimento, os profissionais, serviços e clie
 <img width="878" height="481" alt="image" src="https://github.com/user-attachments/assets/3e6b44b7-082e-4e54-8572-b8d0547ca9e2" />
 
 
-DESCRIÇÃO DO FUNCIONAMENTO:
+2.4.1 Visão geral
 
-A Vertown é uma plataforma voltada principalmente para gestão ambiental, gestão de resíduos e acompanhamento de práticas ESG. Entre os concorrentes analisados, é uma das plataformas que mais se aproxima diretamente do tema da nossa pesquisa.
-A plataforma permite acompanhar o caminho dos resíduos gerados pela empresa, gerenciar fornecedores, organizar documentos ambientais e visualizar diferentes informações por meio de dashboards e indicadores ESG. Também possui ferramentas para acompanhamento de custos, definição de metas, rastreabilidade de resíduos e questões relacionadas à conformidade ambiental.
+A **Vertown** é uma plataforma voltada para **gestão ambiental, resíduos e práticas ESG**. Seu objetivo é ajudar empresas a acompanhar seus impactos ambientais e melhorar seus resultados. Entre suas principais funções estão **gestão e rastreabilidade de resíduos, indicadores ESG, controle de documentos, acompanhamento de custos e definição de metas**.
 
-PONTOS FORTES:
+2.4.2 Funcionamento
+
+Na Vertown, a empresa registra informações sobre seus **resíduos, fornecedores e processos ambientais**. A plataforma organiza esses dados e os apresenta por meio de **dashboards e indicadores**, permitindo acompanhar custos, metas, desempenho ambiental e o destino dos resíduos. Assim, o gestor consegue visualizar de forma mais simples os resultados das ações ambientais e ESG da empresa.
+
+2.4.3 Pontos Fortes
 
 - ESG faz parte diretamente da proposta de valor.
 - Traduz dados ambientais em dashboards e indicadores visuais.
@@ -129,7 +132,7 @@ PONTOS FORTES:
 - Permite benchmarking e comparação de desempenho em determinados serviços.
 - Demonstra benefícios de ESG através de dados concretos.
 
-PONTOS FRACOS:
+2.4.4 Pontos Fracos
 
 - Não é voltada especificamente para tatuadores.
 - O vocabulário técnico ambiental pode dificultar a percepção de valor de empresários com pouco conhecimento de ESG.
