@@ -7,8 +7,6 @@ Como aumentar a percepção de importância para que PMEs invistam em ESG?
 
 CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 
-### EQUIPE
-
 | Nome completo | E-mail |
 |---|---|
 | Arthur Freitas Sultanum Burgos | afsb2@cesar.school |
