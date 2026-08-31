@@ -40,9 +40,7 @@ As informações registradas são organizadas pela plataforma em relatórios e d
 
 **2.2 GestãoInk**
 
-<img width="905" height="479" alt="image" src="https://github.com/user-attachments/assets/0aaeb8af-df88-4b11-a85a-5236820ed814" />
-
-<img width="905" height="477" alt="image" src="https://github.com/user-attachments/assets/e7c9d19b-422a-4684-a637-5340b5e5d3c9" />
+<img width="905" height="482" alt="image" src="https://github.com/user-attachments/assets/33d6dead-3034-410e-90b3-9bf3f01297f7" />
 
 
 2.2.1 Visão geral
