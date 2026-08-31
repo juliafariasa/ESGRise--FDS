@@ -45,11 +45,11 @@ As informações registradas são organizadas pela plataforma em relatórios e d
 
 2.2.1 Visão geral
 
-O **GestãoInk** é uma plataforma brasileira voltada para **tatuadores e estúdios de tatuagem**, criada para facilitar a organização e a gestão do negócio. Reúne ferramentas de **agenda, orçamentos, clientes, estoque, financeiro, comissões e anamnese digital**. Também conta com integração ao WhatsApp, relatórios, gráficos e recursos de inteligência artificial para automatizar algumas tarefas.
+O GestãoInk é uma plataforma brasileira voltada para tatuadores e estúdios de tatuagem, criada para facilitar a organização e a gestão do negócio. Reúne ferramentas de agenda, orçamentos, clientes, estoque, financeiro, comissões e anamnese digital. Também conta com integração ao WhatsApp, relatórios, gráficos e recursos de inteligência artificial para automatizar algumas tarefas.
 
 2.2.2 Funcionamento
 
-Na plataforma, o gestor cadastra as informações do estúdio, clientes e serviços e passa a controlar as principais atividades em um só lugar. É possível **criar orçamentos, organizar agendamentos, registrar clientes, acompanhar o estoque e controlar as finanças**. Os dados são apresentados em gráficos e relatórios, enquanto a integração com o WhatsApp e os recursos de IA auxiliam no atendimento e na automatização de tarefas do dia a dia.
+Na plataforma, o gestor cadastra as informações do estúdio, clientes e serviços e passa a controlar as principais atividades em um só lugar. É possível criar orçamentos, organizar agendamentos, registrar clientes, acompanhar o estoque e controlar as finanças. Os dados são apresentados em gráficos e relatórios, enquanto a integração com o WhatsApp e os recursos de IA auxiliam no atendimento e na automatização de tarefas do dia a dia.
 
 
 2.2.3 Pontos Fortes
@@ -116,11 +116,11 @@ Na Avec, o gestor cadastra o estabelecimento, os profissionais, serviços e clie
 
 2.4.1 Visão geral
 
-A **Vertown** é uma plataforma voltada para **gestão ambiental, resíduos e práticas ESG**. Seu objetivo é ajudar empresas a acompanhar seus impactos ambientais e melhorar seus resultados. Entre suas principais funções estão **gestão e rastreabilidade de resíduos, indicadores ESG, controle de documentos, acompanhamento de custos e definição de metas**.
+A Vertown é uma plataforma voltada para gestão ambiental, resíduos e práticas ESG. Seu objetivo é ajudar empresas a acompanhar seus impactos ambientais e melhorar seus resultados. Entre suas principais funções estão gestão e rastreabilidade de resíduos, indicadores ESG, controle de documentos, acompanhamento de custos e definição de metas.
 
 2.4.2 Funcionamento
 
-Na Vertown, a empresa registra informações sobre seus **resíduos, fornecedores e processos ambientais**. A plataforma organiza esses dados e os apresenta por meio de **dashboards e indicadores**, permitindo acompanhar custos, metas, desempenho ambiental e o destino dos resíduos. Assim, o gestor consegue visualizar de forma mais simples os resultados das ações ambientais e ESG da empresa.
+Na Vertown, a empresa registra informações sobre seus resíduos, fornecedores e processos ambientais. A plataforma organiza esses dados e os apresenta por meio de dashboards e indicadores, permitindo acompanhar custos, metas, desempenho ambiental e o destino dos resíduos. Assim, o gestor consegue visualizar de forma mais simples os resultados das ações ambientais e ESG da empresa.
 
 2.4.3 Pontos Fortes
 
@@ -149,10 +149,13 @@ Na Vertown, a empresa registra informações sobre seus **resíduos, fornecedore
 <img width="925" height="480" alt="image" src="https://github.com/user-attachments/assets/ee1615cc-4cfa-4cbf-8a34-7d2fa934baf2" />
 
 
-DESCRIÇÃO DO FUNCIONAMENTO:
+2.5.1 Visão geral
 
-O Tattoo Manager é uma plataforma desenvolvida tanto tatuadores autônomos quanto estúdios de tatuagem. Ela reúne ferramentas como agenda, criação de orçamentos, cadastro de clientes, controle financeiro, gestão de profissionais, comissões e estoque.
-Existe um plano gratuito para os pequenos negócios e outros planos que acompanham o crescimento do profissional ou do estúdio.
+O Tattoo Manager é uma plataforma de gestão criada especialmente para tatuadores autônomos e estúdios de tatuagem. Seu objetivo é facilitar a organização do negócio, reunindo ferramentas de agenda, orçamentos, clientes, finanças, estoque, profissionais e comissões. A plataforma também oferece anamnese digital e possui um plano gratuito, facilitando o acesso de pequenos negócios.
+
+2.5.2 Funcionamento
+
+Na plataforma, o tatuador ou gestor cadastra seus clientes, serviços e profissionais e passa a organizar a rotina do estúdio pelo sistema. É possível agendar atendimentos, criar orçamentos, controlar materiais, registrar informações dos clientes e acompanhar as finanças. Os dados ficam centralizados, facilitando o acompanhamento e a gestão do negócio no dia a dia.
 
 2.5.3 Pontos Fortes
 
