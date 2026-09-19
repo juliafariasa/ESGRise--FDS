@@ -1,0 +1,44 @@
+{% load static %}<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block titulo %}ESGRise{% endblock %}</title>
+    <link rel="stylesheet" href="{% static 'css/estilo.css' %}">
+</head>
+<body>
+    <header>
+        <h1>ESGRise</h1>
+        <p class="subtitulo">Práticas de ESG para pequenas e médias empresas</p>
+    </header>
+
+    {% with pagina=request.resolver_match.url_name %}
+    <nav>
+        <a class="{% if pagina == 'index' %}ativo{% endif %}"
+           href="{% url 'forum:index' %}">Início</a>
+        <a class="{% if pagina == 'quem_somos' %}ativo{% endif %}"
+           href="{% url 'forum:quem_somos' %}">Quem Somos</a>
+        <a class="{% if pagina == 'sobre_projeto' %}ativo{% endif %}"
+           href="{% url 'forum:sobre_projeto' %}">Sobre o Projeto</a>
+        <a class="{% if pagina == 'fale_conosco' %}ativo{% endif %}"
+           href="{% url 'forum:fale_conosco' %}">Fale Conosco</a>
+    </nav>
+    {% endwith %}
+
+    <div class="container">
+        {% for message in messages %}
+            <p class="aviso aviso-{{ message.tags }}">{{ message }}</p>
+        {% endfor %}
+
+        {% block content %}{% endblock %}
+    </div>
+
+    <footer>
+        <p>
+            Projeto da disciplina de Fundamentos de Desenvolvimento de Software
+            <br>
+            CESAR School - Ciências da Computação, Turma A
+        </p>
+    </footer>
+</body>
+</html>

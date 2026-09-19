@@ -1,0 +1,65 @@
+{% extends "forum/base.html" %}
+
+{% block titulo %}ESGRise{% endblock %}
+
+{% block content %}
+<h2>Início</h2>
+
+<p>
+    O ESGRise ajuda pequenas e médias empresas a colocar práticas de ESG na
+    rotina de gestão, com foco em estúdios de tatuagem. A plataforma traduz os
+    três pilares do ESG em critérios objetivos que um estúdio consegue
+    acompanhar no dia a dia.
+</p>
+
+<div class="caixa">
+    <p><b>Desafio do projeto</b></p>
+    <p>
+        Como aumentar a percepção de importância para que PMEs invistam em ESG?
+        Proposto pela empresa Deloitte.
+    </p>
+</div>
+
+{% for secao in secoes %}
+    <h3>{{ secao.titulo }}</h3>
+    <p>{{ secao.texto }}</p>
+{% endfor %}
+
+<h3>Os pilares na rotina do estúdio</h3>
+<p>
+    Cada pilar do ESG se traduz em práticas concretas dentro do estúdio. As
+    tabelas abaixo mostram o que entra em cada um.
+</p>
+
+{% for pilar in pilares %}
+    <h4>{{ pilar.sigla }} - {{ pilar.nome }}</h4>
+    <p>{{ pilar.descricao }}</p>
+    <table class="tabela-itens">
+        <tr>
+            <th>Prática</th>
+            <th>Por que importa para o estúdio</th>
+        </tr>
+        {% for pratica in pilar.praticas.all %}
+            <tr>
+                <td><b>{{ pratica.titulo }}</b></td>
+                <td>{{ pratica.descricao }}</td>
+            </tr>
+        {% empty %}
+            <tr>
+                <td colspan="2">Nenhuma prática cadastrada para este pilar.</td>
+            </tr>
+        {% endfor %}
+    </table>
+{% empty %}
+    <p>Nenhum pilar cadastrado.</p>
+{% endfor %}
+
+<h3>O que o estúdio ganha com isso</h3>
+<ul>
+    {% for beneficio in beneficios %}
+        <li>{{ beneficio.texto }}</li>
+    {% empty %}
+        <li>Nenhum ganho cadastrado.</li>
+    {% endfor %}
+</ul>
+{% endblock %}

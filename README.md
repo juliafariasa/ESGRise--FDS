@@ -3,19 +3,21 @@ Desafio Proposto: Como aumentar a percepção de importância para que PMEs invi
 
 ## DESCRIÇÃO DO PROJETO
 
-O **ESGRise** é um projeto acadêmico desenvolvido na disciplina de **Fundamentos de Desenvolvimento de Software (FDS)**, com foco em criar uma solução tecnológica que conecte **ESG** 🌱, **sustentabilidade** ♻️ e **gestão empresarial** 📊 de forma prática e acessível para **Pequenas e Médias Empresas (PMEs)**.
+O **ESGRise** é um projeto acadêmico desenvolvido na disciplina de **Fundamentos de Desenvolvimento de Software (FDS)**, com foco em criar uma solução tecnológica que conecte **ESG** 🌱, **sustentabilidade** ♻️ e **gestão empresarial** 📊 de forma prática e acessível para **estúdios de tatuagem** 🖋️ — microempresas que representam bem o desafio das PMEs proposto pela Deloitte.
 
-Atualmente, muitas empresas reconhecem a importância do ESG, mas ainda encontram dificuldades para transformar esse conceito em ações concretas dentro da rotina do negócio. Pensando nisso, o ESGRise nasce como uma proposta de software que busca ampliar a percepção de valor dessas práticas e apoiar a tomada de decisão com base em dados, organização de processos e acompanhamento contínuo de metas sustentáveis ✅.
+O setor de tatuagem deixou de ser um espaço marginalizado e hoje responde a padrões técnicos, fiscais e de biossegurança fiscalizados pela Vigilância Sanitária. Ainda assim, a rotina do estúdio concentra problemas estruturais em cada pilar do ESG: o descarte de um grande volume de material de uso único e de perfurocortantes contaminados (**Ambiental**), a ergonomia e a biossegurança de quem tatua e de quem é tatuado (**Social**) e as lacunas de licenciamento, documentação e transparência na gestão do negócio (**Governança**).
 
-Mais do que apresentar indicadores, o projeto pretende incentivar uma mudança de mentalidade: ESG não deve ser tratado apenas como tendência, mas como parte da estratégia da empresa no longo prazo. Nesse contexto, usamos a ideia da **tatuagem** 🖋️ como metáfora central do projeto — algo que representa identidade, compromisso e permanência. Assim como uma tatuagem carrega significado duradouro, a sustentabilidade também deve ser incorporada à cultura organizacional de forma autêntica e consistente.
+Pensando nisso, o ESGRise nasce como uma proposta de software que traduz os três pilares do ESG em critérios objetivos que um estúdio consegue acompanhar no dia a dia, ampliando a percepção de valor dessas práticas e apoiando a tomada de decisão com base em dados ✅.
+
+Mais do que apresentar indicadores, o projeto pretende incentivar uma mudança de mentalidade: ESG não deve ser tratado apenas como tendência, mas como parte da estratégia do estúdio no longo prazo. Por isso a própria **tatuagem** é a metáfora central do projeto — algo que representa identidade, compromisso e permanência. Assim como uma tatuagem carrega significado duradouro, a sustentabilidade também deve ser incorporada à cultura do estúdio de forma autêntica e consistente.
 
 
 ## 🎯 Objetivo Principal
 
-Desenvolver uma plataforma que ajude PMEs a:
+Desenvolver uma plataforma que ajude estúdios de tatuagem a:
 
 - compreender melhor os pilares ESG (Ambiental, Social e Governança);
-- organizar práticas sustentáveis no dia a dia da gestão;
+- organizar práticas sustentáveis no dia a dia do estúdio;
 - acompanhar evolução por meio de critérios objetivos;
 - identificar oportunidades de melhoria contínua;
 - fortalecer posicionamento de marca e responsabilidade social.
@@ -54,12 +56,12 @@ O ESGRise busca gerar impacto em duas frentes:
    Consolidar aprendizados de FDS por meio de um projeto completo, com problema real, planejamento, implementação e documentação.
 
 2. **Impacto social e de mercado** 🌍  
-   Apoiar PMEs na adoção de uma gestão mais sustentável e estratégica, mostrando que ESG pode ser acessível, mensurável e vantajoso para negócios de diferentes portes.
+   Apoiar estúdios de tatuagem na adoção de uma gestão mais sustentável e estratégica, mostrando que ESG pode ser acessível, mensurável e vantajoso mesmo para um negócio de poucas pessoas — e servindo de modelo para outras PMEs.
 
 
 ## 🧭 Síntese
 
-Em resumo, o **ESGRise** propõe o desenvolvimento de uma plataforma que transforma conceitos de ESG em práticas de gestão aplicáveis ao contexto das PMEs. Com base em fundamentos de desenvolvimento de software e utilizando tecnologias modernas como Python, Django e SQL, o projeto une propósito, inovação e organização técnica para construir uma solução relevante, educativa e de valor duradouro. 🌱💼
+Em resumo, o **ESGRise** propõe o desenvolvimento de uma plataforma que transforma conceitos de ESG em práticas de gestão aplicáveis à rotina de um estúdio de tatuagem. Com base em fundamentos de desenvolvimento de software e utilizando tecnologias modernas como Python, Django e SQL, o projeto une propósito, inovação e organização técnica para construir uma solução relevante, educativa e de valor duradouro. 🌱💼
 
 ---
 

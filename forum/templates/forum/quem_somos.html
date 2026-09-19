@@ -1,0 +1,36 @@
+{% extends "forum/base.html" %}
+
+{% block titulo %}Quem Somos - ESGRise{% endblock %}
+
+{% block content %}
+<h2>Quem Somos</h2>
+
+<p>
+    Somos estudantes do 2° período de Ciências da Computação da CESAR School, turma A.
+    Desenvolvemos o ESGRise na disciplina de Fundamentos de Desenvolvimento de
+    Software, a partir de um desafio proposto pela Deloitte.
+</p>
+
+{% for secao in secoes %}
+    <h3>{{ secao.titulo }}</h3>
+    <p>{{ secao.texto }}</p>
+{% endfor %}
+
+<h3>Integrantes</h3>
+<table>
+    <tr>
+        <th>Nome</th>
+        <th>E-mail</th>
+    </tr>
+    {% for membro in membros %}
+        <tr>
+            <td>{{ membro.nome }}</td>
+            <td><a href="mailto:{{ membro.email }}">{{ membro.email }}</a></td>
+        </tr>
+    {% empty %}
+        <tr>
+            <td colspan="2">Nenhum membro cadastrado.</td>
+        </tr>
+    {% endfor %}
+</table>
+{% endblock %}

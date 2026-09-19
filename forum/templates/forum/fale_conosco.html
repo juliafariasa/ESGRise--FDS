@@ -1,0 +1,49 @@
+{% extends "forum/base.html" %}
+
+{% block titulo %}Fale Conosco - ESGRise{% endblock %}
+
+{% block content %}
+<h2>Fale Conosco</h2>
+
+<p>
+    Envie sua dúvida, sugestão ou proposta de parceria. A equipe responde em
+    até 3 dias úteis.
+</p>
+
+<form method="post">
+    {% csrf_token %}
+
+    <label for="nome">Nome</label>
+    <input type="text" id="nome" name="nome" maxlength="120"
+           value="{{ dados.nome|default:'' }}">
+    {% if erros.nome %}<p class="erro">{{ erros.nome }}</p>{% endif %}
+
+    <label for="email">E-mail</label>
+    <input type="text" id="email" name="email" maxlength="254"
+           value="{{ dados.email|default:'' }}">
+    {% if erros.email %}<p class="erro">{{ erros.email }}</p>{% endif %}
+
+    <label for="empresa">Empresa (opcional)</label>
+    <input type="text" id="empresa" name="empresa" maxlength="120"
+           value="{{ dados.empresa|default:'' }}">
+
+    <label for="assunto">Assunto</label>
+    <select id="assunto" name="assunto">
+        {% for codigo, rotulo in assuntos %}
+            <option value="{{ codigo }}"{% if dados.assunto == codigo %} selected{% endif %}>{{ rotulo }}</option>
+        {% endfor %}
+    </select>
+    {% if erros.assunto %}<p class="erro">{{ erros.assunto }}</p>{% endif %}
+
+    <label for="mensagem">Mensagem</label>
+    <textarea id="mensagem" name="mensagem" rows="6">{{ dados.mensagem|default:'' }}</textarea>
+    {% if erros.mensagem %}<p class="erro">{{ erros.mensagem }}</p>{% endif %}
+
+    <input type="submit" name="enviar" value="Enviar mensagem">
+
+    <p class="ajuda">
+        Todos os campos são obrigatórios, exceto a empresa. A mensagem precisa
+        ter pelo menos 20 caracteres.
+    </p>
+</form>
+{% endblock %}
