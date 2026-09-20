@@ -103,7 +103,25 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 
 ---
 
-## ENTREGÁVEL 2
+## ENTREGÁVEL 2️⃣
+
+<details>
+  <summary><b>Entregável 2️⃣</b></summary>
+  <br>
+
+  ### Aplicação em produção
+  Acesse o sistema: https://esgrise-fds.onrender.com/
+  
+  ### Instruções de acesso
+  1. Abra o link acima em qualquer navegador.
+  2. Não é necessário instalar nada nem fazer login — a página inicial já carrega direto.
+  3. Navegue pelo menu entre as páginas: Início, Quem Somos, Sobre o Projeto e Fale Conosco.
+
+
+
+</details>
+
+
 
 ### Aplicação em produção
 Acesse o sistema: https://esgrise-fds.onrender.com/
