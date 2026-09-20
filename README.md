@@ -89,44 +89,54 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 
 ## ENTREGÁVEL 1
 
-### ANÁLISE DE COMPETIDORES
--> https://github.com/juliafariasa/ESGRise--FDS/blob/main/an%C3%A1lise_competidores.md
+<details>
+  <summary><b>Entregável 1</b></summary>
+  <br>
 
-### BENCHMARK
-<img width="1600" height="767" alt="benchmark" src="https://github.com/user-attachments/assets/ee5738d3-22ba-4d74-bf4d-bbc48bfd68f5" />
+  ### ANÁLISE DE COMPETIDORES:
+  https://github.com/juliafariasa/ESGRise--FDS/blob/main/an%C3%A1lise_competidores.md
 
-### REQUISITOS DO PRODUTO
--> https://github.com/juliafariasa/ESGRise--FDS/blob/main/requisitos-nao-triviais.md
+  ### BENCHMARK
+  <img width="1600" height="767" alt="benchmark" src="https://github.com/user-attachments/assets/ee5738d3-22ba-4d74-bf4d-bbc48bfd68f5" />
 
-### QUADRO DE SPRINTS
-<img width="1600" height="767" alt="benchmark" src="Imagens/Captura de tela 2026-08-31 103050.png" />
+  ### REQUISITOS DO PRODUTO
+  https://github.com/juliafariasa/ESGRise--FDS/blob/main/requisitos-nao-triviais.md
+
+  ### QUADRO DE SPRINTS
+  <img width="1600" height="767" alt="benchmark" src="Imagens/Captura de tela 2026-08-31 103050.png" />
+
+
+</details>
 
 ---
 
-## ENTREGÁVEL 2️⃣
+## ENTREGÁVEL 2
 
 <details>
-  <summary><b>Entregável 2️⃣</b></summary>
+  <summary><b>Entregável 2</b></summary>
   <br>
 
-  ### Aplicação em produção
-  Acesse o sistema: https://esgrise-fds.onrender.com/
+  ### Link do deployment da infraestrutura:
+  https://esgrise-fds.onrender.com/
   
-  ### Instruções de acesso
+  ### Instruções de acesso:
   1. Abra o link acima em qualquer navegador.
   2. Não é necessário instalar nada nem fazer login — a página inicial já carrega direto.
   3. Navegue pelo menu entre as páginas: Início, Quem Somos, Sobre o Projeto e Fale Conosco.
 
+  ### Link do screencast do uso do sistema:
+  (LINK)
+
+  ### Link do screencast do código django:
+  (LINK)
+
+  ### Issue/Bug Tracker(Entregável 2):
+  (IMAGEM)
+
+  ### Quadro de sprint 2, atualizado e refletindo a entrega:
+  (IMAGEM)
 
 
 </details>
 
 
-
-### Aplicação em produção
-Acesse o sistema: https://esgrise-fds.onrender.com/
-
-### Instruções de acesso
-1. Abra o link acima em qualquer navegador.
-2. Não é necessário instalar nada nem fazer login — a página inicial já carrega direto.
-3. Navegue pelo menu entre as páginas: Início, Quem Somos, Sobre o Projeto e Fale Conosco.
