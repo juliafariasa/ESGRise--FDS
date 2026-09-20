@@ -102,3 +102,13 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 <img width="1600" height="767" alt="benchmark" src="Imagens/Captura de tela 2026-08-31 103050.png" />
 
 ---
+
+## ENTREGÁVEL 2
+
+### Aplicação em produção
+Acesse o sistema: https://esgrise-fds.onrender.com/
+
+### Instruções de acesso
+1. Abra o link acima em qualquer navegador.
+2. Não é necessário instalar nada nem fazer login — a página inicial já carrega direto.
+3. Navegue pelo menu entre as páginas: Início, Quem Somos, Sobre o Projeto e Fale Conosco.
