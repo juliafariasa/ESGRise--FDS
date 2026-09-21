@@ -131,7 +131,8 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
   (LINK)
 
   ### Issue/Bug Tracker(Entregável 2):
-  (IMAGEM)
+  <img width="1565" height="532" alt="WhatsApp Image 2026-09-21 at 08 59 12" src="https://github.com/user-attachments/assets/bd2f9ccf-2d28-4be4-ace6-60f6680ddf77" />
+
 
   ### Quadro de sprint 2, atualizado e refletindo a entrega:
   (IMAGEM)
