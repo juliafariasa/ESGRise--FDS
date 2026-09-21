@@ -135,7 +135,8 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
 
 
   ### Quadro de sprint 2, atualizado e refletindo a entrega:
-  (IMAGEM)
+  <img width="919" height="430" alt="sprint 2" src="https://github.com/user-attachments/assets/16b9f460-3c12-45d6-adb3-d20c6587e46d" />
+
 
 
 </details>
