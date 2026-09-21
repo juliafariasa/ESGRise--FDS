@@ -125,7 +125,7 @@ CIÊNCIAS DA COMPUTAÇÃO - TURMA A
   3. Navegue pelo menu entre as páginas: Início, Quem Somos, Sobre o Projeto e Fale Conosco.
 
   ### Link do screencast do uso do sistema:
-  (LINK)
+  https://youtu.be/l3yzfyt5Xxw
 
   ### Link do screencast do código django:
   (https://youtu.be/WJievnC4gsQ)
