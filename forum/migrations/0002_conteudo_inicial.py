@@ -8,7 +8,7 @@ from django.db import migrations
 
 MEMBROS = [
     ('Arthur Freitas Sultanum Burgos', 'afsb2@cesar.school'),
-    ('Bruna Rocha Souto Walter', 'brsw@cesar.school'),
+    ('Bruna Rocha Souto Walter', 'br@cesar.school'),
     ('Julia Farias Amancio', 'jfa@cesar.school'),
     ('Luiz Eduardo da Silva Moreira', 'lesm@cesar.school'),
     ('Miguel Magalhães Drechsler', 'mmd3@cesar.school'),
